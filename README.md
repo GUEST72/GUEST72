@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Adel</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deffo0" alt="deffo0" /></a> </p>
+
 
 - 👯 I’m looking to collaborate on **An end to end web Apps, Desktop Apps or even Deep learning models**
 
@@ -17,3 +17,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deffo0&show_icons=true&locale=en&layout=compact" alt="deffo0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deffo0&show_icons=true&locale=en" alt="deffo0" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deffo0" alt="deffo0" /></a> </p>
