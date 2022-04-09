@@ -3,7 +3,7 @@
 
 
 
-- 👯 I’m looking to collaborate on **An end to end web Apps, Desktop Apps or even Data analysis projects and Deep learning models**
+- 👯 I’m looking to collaborate on **An end to end web apps, Desktop apps or even Data analysis projects and Deep learning models**
 
 - 📫 How to reach me **ahmeddeffo777@gmail.com**
 
