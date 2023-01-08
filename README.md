@@ -15,7 +15,7 @@
 
 <h3 align="left">Tools:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=angular,flutter,spring,nodejs,mongodb,postgresql,mysql,aws,supabase,tensorflow)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=angular,flutter,spring,nodejs,mongodb,postgresql,mysql,aws,supabase,tensorflow,git)](https://skills.thijs.gg)
 
 
 
