@@ -4,7 +4,7 @@
 
 
 
-- 👯 I’m looking to collaborate on **end to end web apps, desktop apps, mobile apps or even data analysis projects and deep learning models**
+- 👯 I’m looking to collaborate on **end to end web apps, desktop apps, mobile apps or even data analysis projects, deep learning models and distributed large scale systems**
 
 - 📫 How to reach me **ahmeddeffo777@gmail.com**
 
