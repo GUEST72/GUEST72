@@ -10,12 +10,12 @@
 
 <h3 align="left">Languages:</h3>
 
-  [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,java,dart,js,ts,html,css,python)](https://skills.thijs.gg)
+  [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,java,dart,js,ts,html,css,python,ruby)](https://skills.thijs.gg)
 
 
 <h3 align="left">Tools:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=angular,flutter,spring,nodejs,mongodb,postgresql,mysql,aws,supabase,tensorflow,git)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=angular,react,flutter,spring,nodejs,rails,mongodb,postgresql,mysql,aws,supabase,tensorflow,git)](https://skills.thijs.gg)
 
 
 
