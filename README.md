@@ -4,7 +4,7 @@
 
 
 
-- 👯 I’m looking to collaborate on **POCs or even research papers, deep learning models, and distributed large-scale systems**
+- 👯 I’m looking to collaborate on **POCs, research papers, deep learning models, or distributed large-scale systems**
 
 - 📫 How to reach me **ahmeddeffo777@gmail.com**
 
