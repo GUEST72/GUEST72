@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Adel</h1>
-<h3 align="center">Undergraduate Software Engineer from Egypt</h3>
-<h3 align="center">CSED Student</h3>
+<h3 align="center">Software Engineer @ Nowlun</h3>
+<h3 align="center">CSED Graduate</h3>
 
 
 
