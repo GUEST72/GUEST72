@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed Adel</h1>
-<h3 align="center">Student @ CCE</h3>
+<h3 align="center">Student @ CCE Department at Alexandria University</h3>
 
 
-- I'm looking for collaborating in any open source projects
+- I'm looking to collaborate in any open source projects
 - 📫 How to reach me **missmohamed6@gmail.com**
 
 
